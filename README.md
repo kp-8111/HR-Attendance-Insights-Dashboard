@@ -1,5 +1,4 @@
-## 4. HR Attendance Insights Dashboard
-[View Dashboard](https://project.novypro.com/KmaPey)
+## HR Attendance Insights Dashboard
 
 ### Project Overview
 Developed a dashboard to track employee attendance trends and identify peak days for strategic event planning.
@@ -19,3 +18,5 @@ Automate attendance tracking and provide insights into leave patterns to optimiz
 ### Outcome
 Enhanced HR operational efficiency by automating attendance tracking and improving event planning.
 
+## Link 
+[View Dashboard](https://project.novypro.com/KmaPey)
